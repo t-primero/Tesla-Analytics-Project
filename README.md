@@ -23,13 +23,13 @@ Project Files
 | File | Description |
 |------|-------------|
 | `Tesla_Project.ipynb` | Main notebook containing data analysis and visualizations |
-| `tesla_moving_avg.py` | (Optional) Script version of the notebook |
-| `tesla_plot.png` | (Optional) Static chart preview |
+| `tesla_moving_avg.py` | Script version of the notebook |
+| `tsla_moving_averages_plot.png` | Static chart preview |
 | `requirements.txt` | List of Python dependencies for easy setup |
 
 Preview
 
-![Tesla Stock MA Chart](tesla_plot.png)
+![Tesla Stock MA Chart](tsla_moving_averages_plot.png)
 
 > In this chart, we plot Tesla's closing price along with the 20-day and 50-day SMAs. Crossover points indicate possible trend reversals.
 
